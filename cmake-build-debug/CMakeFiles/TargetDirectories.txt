@@ -1,0 +1,3 @@
+/Users/tengz/CLionProjects/CPP-Basic-Learning/cmake-build-debug/CMakeFiles/CPP_Basic_Learning.dir
+/Users/tengz/CLionProjects/CPP-Basic-Learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tengz/CLionProjects/CPP-Basic-Learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
