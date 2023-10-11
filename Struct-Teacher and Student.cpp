@@ -1,5 +1,6 @@
 //
 // Created by 张腾 on 2023/10/11.
+// 结构体实践
 //
 #include<string>
 #include<iostream>
